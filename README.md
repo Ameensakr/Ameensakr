@@ -4,7 +4,7 @@ I'm **Ameen Osama**, a Computer Science student, Competitive Programmer. I enjoy
 
 - 🥈 2nd @ Menofia University CPC 2024  
 - 🧠 Expert on Codeforces ([Amigoo](https://codeforces.com/profile/Amigoo))  
-- 🏆 Qualified to ACPC 2024  
+- 🏆 ACPC Finalist  
 - 👨‍🏫 Head of ICPC Menofia Community
 
  [LinkedIn](https://www.linkedin.com/in/ameen-osama-843939234/)
