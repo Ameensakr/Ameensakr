@@ -7,4 +7,4 @@ I'm **Ameen Osama**, a Computer Science student, Competitive Programmer. I enjoy
 - 🏆 Qualified to ACPC 2024  
 - 👨‍🏫 Head of ICPC Menofia Community
 
-[GitHub](https://github.com/Ameensakr) • [LinkedIn](https://www.linkedin.com/in/ameen-osama-843939234/)
+ [LinkedIn](https://www.linkedin.com/in/ameen-osama-843939234/)
